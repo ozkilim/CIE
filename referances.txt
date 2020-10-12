@@ -1,0 +1,25 @@
+CIE Referances
+
+1. Orders of magnitude (luminance)
+
+This gives evidnece of range of values of model being correct.
+https://en.wikipedia.org/wiki/Orders_of_magnitude_(luminance)
+
+2. "CIE_general_sky_standard_defining_luminance_distributions"
+https://www.researchgate.net/publication/238782731_CIE_general_sky_standard_defining_luminance_distributions
+
+"Boiled down version":
+http://www.ustarch.sav.sk/wp-content/uploads/darula_kittler_proc_conf_esim_2002.pdf
+
+PDF attached to git for must full paper with worrked calcualtions.
+
+3. "Illuminance_turbidity_parameters"
+https://www.researchgate.net/publication/227896219_Illuminance_turbidity_parameters_and_atmospheric_extinction_in_the_visible_spectrum
+
+4. intersting for future work
+"Classification of CIE standard skies using probabilistic
+neural networks"
+https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/joc.1891
+
+HDRI Sky model --> very intersting and much more accurate if camera avalable
+https://faculty.washington.edu/inanici/MI-RESEARCH.html#hdreval
